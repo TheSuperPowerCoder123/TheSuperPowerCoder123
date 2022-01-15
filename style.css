@@ -1,7 +1,16 @@
 /*hi*/
 
+html {
+    background-color: black;
+}
+
+p {
+    color: darkgreen;
+}
+
 #HiText {
     text-align: center;
+    color: darkgreen;
 }
 
 #1para {
